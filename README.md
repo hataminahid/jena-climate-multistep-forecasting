@@ -1,4 +1,4 @@
-Multivariate Weather Forecasting with RNN + Original GARCH-Aware Horizon-Weighted Loss Contribution
+# Multivariate Weather Forecasting with RNN + Original GARCH-Aware Horizon-Weighted Loss Contribution
 For the full technical report (problem/data/method/results/limitations/references) see REPORT.md. For step-by-step reproduction instructions see REPRODUCE.md.
 
 Project structure
